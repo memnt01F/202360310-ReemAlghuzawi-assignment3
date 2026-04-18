@@ -10,41 +10,14 @@ ChatGPT was used as the primary AI tool during this assignment.
 
 Use cases included:
 
-Code generation  
-Help writing JavaScript functions  
+  
 Debugging errors  
 Understanding programming concepts  
-Creating search, filter, and sort logic  
-Implementing API integration  
-Improving UI layout and structure  
-Writing documentation files  
+Improving UI layout and structure   
 Explaining error messages  
 Reviewing code quality  
 
 ChatGPT helped break complex problems into clear step-by-step solutions and supported learning during development.
-
----
-
-## Recommended AI Tools
-
-The following AI tools were considered or discussed during the assignment:
-
-GitHub Copilot  
-Used for automatic code suggestions and faster development.
-
-ChatGPT  
-Used for explanations, debugging, and generating code examples.
-
-Cursor  
-AI-powered code editor for improving coding workflow.
-
-Replit  
-Online development environment with AI assistance.
-
-AWS CodeWhisperer  
-AI tool for generating code suggestions.
-
-In this assignment, ChatGPT was the main tool used.
 
 ---
 
